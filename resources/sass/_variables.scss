@@ -1,0 +1,31 @@
+// Body
+$body-bg: #ffffff;
+
+// Typography
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+$styled-font: 'Pacifico', cursive;
+$body-font: 'Roboto', sans-serif;
+
+
+
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+$primary-color: #14213d;
+$primary-color-light: #315196;
+$secondary-color: #fad02c;
+$transparet-color: rgba(255, 255, 255, 0.25);
